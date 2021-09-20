@@ -1,3 +1,6 @@
 [submodule "website"]
 	path = website
 	url = https://github.com/alpinisme/global-cinema.git
+[submodule "ocr"]
+	path = ocr
+	url = https://github.com/kalinalinkalina/filmapping
